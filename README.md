@@ -9,13 +9,13 @@ Outline of the Repository
 | `code/immune-factor-associations` | analyses of immune factor associations (Fig. 2) |
 | `code/microbe-associations` | analyses of microbe associations (Fig. 3) |
 | `code/multiomic-associations` | analysis of immune factor associations (Fig. 4)|
-| `code/predictions` | Contains code to run all prediciton analysies (Fig. 5)|
+| `code/predictions` | Contains code to run all prediciton analysies (Figs. 5,6)|
 | `data/` | Placeholder to directory containing all input data used to run analyses |
 | `results/` | Contains all figures images |
 | `results/immune-factor-associations` | results of immune factor associations (Fig. 2) |
 | `results/microbe-associations` | results of microbe associations (Fig. 3) |
 | `results/multiomic-associations` | results of immune factor associations (Fig. 4)|
-| `results/predictions` | results for all prediciton analysies (Fig. 5)|
+| `results/predictions` | results for all prediciton analysies (Figs. 5,6)|
 | `preprocessing/` | Contains commands used for preprocessing & quantification of metagenomic samples |
 | `run.sh` | Script to run all analyses |
 
