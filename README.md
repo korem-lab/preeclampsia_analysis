@@ -1,5 +1,6 @@
 # Code repository for analysis of preeclampsia
-This repository contains all code and results supporting the analysis of our manuscript titled 'First trimester vaginal microbes and immune factors are early predictors of preeclampsia.' 
+This repository contains all code and results supporting the analysis of our manuscript titled 'Early prediction of preeclampsia using the first trimester vaginal
+microbiome.' 
 
 Outline of the Repository
 ------------------
